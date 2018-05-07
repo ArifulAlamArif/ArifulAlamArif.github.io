@@ -1,0 +1,26 @@
+.deco
+{
+	margin-bottom:5px;
+	font-size: 20px;
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border-bottom: 2px solid #8B0000;
+    outline: none;
+}
+p , h3{margin: 0;padding:0;}
+#rl
+{
+	margin: 10px;
+	width: 95%;	
+	
+}
+.r
+{
+	text-align: left;
+	padding: 0 10 10 10;
+}

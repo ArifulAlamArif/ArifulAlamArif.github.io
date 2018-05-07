@@ -1,0 +1,59 @@
+#login_wrapper
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    color: black;
+}
+h2
+{   
+    border-bottom: 2px solid crimson;
+    color: crimson;
+}
+#login_wrapper input
+{
+    margin-bottom:5px;
+    font-size: 15px;
+    width: 100%;
+    padding: 12px 15px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#login_wrapper input[type="text"],
+#login_wrapper input[type="password"]
+{
+    border-bottom: 2px solid #8B0000;
+    outline: none;
+}
+#login_wrapper input[type="text"]:focus,
+#login_wrapper input[type="password"]:focus
+{
+    border-bottom: 2px solid #191970;
+}
+        #login_submit input[type="submit"] {
+            width: 100%;
+            background-color: MediumSeaGreen;
+            color: white;
+            padding: 12px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        #login_submit input[type="submit"]:hover {
+            border-radius: 8px;
+            border: 1px solid black;
+        }
+        a:link
+        { color:blue; font: bold;}
+        a:visited
+        { color:Crimson; }
+        a:hover
+        { color:red; font-weight:bold;}
+        a:active
+        { background-color: LightCoral  ; }

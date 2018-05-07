@@ -1,0 +1,91 @@
+
+body,table{margin:0;padding:0;}
+#search input[type="text"]
+{
+    margin-bottom:5px;
+    font-size: 15px;
+    width: 70%;
+    padding: 15px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#search input[type="submit"] {
+    width: 20%;
+    background-color: #808000;
+    color: white;
+    padding: 18px 20px;
+    margin: 0;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#search input[type="submit"]:hover {
+    background-color: #6B8E23;
+    font-size: 15px;
+}
+#login_div input[type="submit"]{
+    width: 50%;
+    background-color: #008B8B;
+    color: white;
+    padding: 18px 20px;
+    margin: 0;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#login_div input[type="submit"]:hover {
+    background-color: #20B2AA;
+    font-size: 15px;
+}
+#signup_div input[type="submit"] {
+    width: 61%;
+    background-color: #808000;
+    color: white;
+    padding: 18px 20px;
+    margin: 0;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#signup_div input[type="submit"]:hover {
+    background-color: #6B8E23;
+    font-size: 15px;
+}
+#cat_div input[type="submit"]{
+    width: 70%;
+    background-color: #808000;
+    color: white;
+    padding: 18px 20px;
+    margin: 0;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#cat_div input[type="submit"]:hover {
+    background-color: #6B8E23;
+    font-size: 15px;
+}
+#logout_div input[type="submit"]{
+    width: 50%;
+    background-color: #B22222;
+    color: white;
+    padding: 18px 20px;
+    margin: 0;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#logout_div input[type="submit"]:hover {
+    background-color: #8B0000;
+    font-size: 15px;
+}
+/*a:link
+{ color:Chartreuse; }
+a:visited
+{ color:Crimson; }
+a:hover
+{ color:yellow; font-weight:bold;}
+a:active
+{ background-color: LightCoral  ; }*/

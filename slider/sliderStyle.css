@@ -1,0 +1,13 @@
+.bjqs-caption {
+    left: 5px;
+    top: 315px;
+}
+#SliderOption
+{
+	border: 1px solid black;
+	width: 100%;
+	height: 400px;
+}
+span{
+	float: right;
+}

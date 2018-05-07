@@ -1,0 +1,58 @@
+*{padding: 0; margin: 0}
+#submit_signup input[type="submit"]{
+    width: 50%;
+    background-color: red;
+    color: white;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    margin-left: 180px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#submit_signup input[type="submit"]:hover {
+    border-radius: 4px;
+    background-color: MediumSeaGreen;
+}
+#reset_signup input[type="reset"]:hover {
+    border-radius: 4px;
+    background-color: grey;
+}
+#reset_signup input[type="reset"] {
+    width: 50%;
+    background-color: SteelBlue;
+    color: white;
+    padding: 12px ;
+    padding-right:50px;
+    /*margin: 8px 0;*/
+    margin-left: 20px;
+    margin-right: 0px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.deco
+{
+	margin-bottom:5px;
+	font-size: 15px;
+	width: 60%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border-bottom: 2px solid #8B0000;
+    outline: none;
+}
+p , h3{margin: 0;padding:0;}
+#rl
+{
+	margin: 10px;
+	width: 95%;	
+}
+.r
+{
+	text-align: left;
+	padding: 0 10 10 10;
+}

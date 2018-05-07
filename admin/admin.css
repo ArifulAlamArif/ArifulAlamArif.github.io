@@ -1,0 +1,82 @@
+#center
+{
+    border:1px solid black;
+    width: 1300px;
+    height: 630px;
+    position: relative;
+}
+#leftup
+{
+    /*border:1px solid black;*/
+    top: 10px;
+    left: 10px;
+    width: 373px;
+    height: 300px;
+    position: absolute;
+}
+#leftdown
+{
+    /*border:1px solid black;*/
+    top: 320px;
+    left: 10px;
+    width: 373px;
+    height: 300px;
+    position: absolute;
+}
+#midup
+{
+    /*border:1px solid black;*/
+    top: 10px;
+    left: 393px;
+    width: 373px;
+    height: 300px;
+    position: absolute;
+}
+#middown
+{
+    /*border:1px solid black;*/
+    top: 320px;
+    left: 393px;
+    width: 373px;
+    height: 300px;
+    position: absolute;
+}
+
+#rightup
+{
+    /*border:1px solid black;*/
+    top: 10px;
+    left: 816px;
+    width: 373px;
+    height: 300px;
+    position: absolute;
+}
+
+#rightdown
+{
+    /*border:1px solid black;*/
+    top: 320px;
+    left: 816px;
+    width: 373px;
+    height: 300px;
+    position: absolute;
+}
+.formstyle h3{
+	
+	margin: 0;
+	padding: 0;
+}
+/*input[type=submit] {
+    width: 100%;
+    background-color: #191970;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #778899;
+}*/
